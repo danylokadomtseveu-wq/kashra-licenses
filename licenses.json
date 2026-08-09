@@ -1,4 +1,11 @@
 {
   "version": "1.0",
-  "licenses": []
+  "licenses": [
+    {
+      "hwid": "0DAFAA92448F7997",
+      "key": "0DAF-AA92-10B5-521B",
+      "date": "2026-08-10 01:33",
+      "active": true
+    }
+  ]
 }
