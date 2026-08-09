@@ -1,11 +1,10 @@
-{
-  "version": "1.0",
-  "licenses": [
-    {
-      "hwid": "0DAFAA92448F7997",
-      "key": "0DAF-AA92-10B5-521B",
-      "date": "2026-08-10 01:33",
-      "active": true
-    }
-  ]
-}
+[
+  {
+    "key": "8T7K-G3JQ-2SMV-RMV1",
+    "name": "Иван",
+    "hwid": "",
+    "date": "2026-08-10 02:06",
+    "expires": "2026-08-17",
+    "active": true
+  }
+]
